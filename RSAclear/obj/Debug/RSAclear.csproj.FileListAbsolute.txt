@@ -1,0 +1,15 @@
+c:\users\tolya\documents\visual studio 2015\Projects\RSAclear\RSAclear\bin\Debug\RSAclear.exe.config
+c:\users\tolya\documents\visual studio 2015\Projects\RSAclear\RSAclear\obj\Debug\RSAclear.csprojResolveAssemblyReference.cache
+c:\users\tolya\documents\visual studio 2015\Projects\RSAclear\RSAclear\bin\Debug\RSAclear.exe
+c:\users\tolya\documents\visual studio 2015\Projects\RSAclear\RSAclear\bin\Debug\RSAclear.pdb
+c:\users\tolya\documents\visual studio 2015\Projects\RSAclear\RSAclear\obj\Debug\RSAclear.exe
+c:\users\tolya\documents\visual studio 2015\Projects\RSAclear\RSAclear\obj\Debug\RSAclear.pdb
+C:\Users\Tolya\Documents\Visual Studio 2015\Projects\RSAclear\RSAclear\obj\Debug\RSAclear.Primes.resources
+C:\Users\Tolya\Documents\Visual Studio 2015\Projects\RSAclear\RSAclear\obj\Debug\RSAclear.csproj.GenerateResource.Cache
+C:\Users\Tolya\Documents\Visual Studio 2015\Projects\RSAclear\RSAclear\obj\Debug\RSAclear.ModExp.resources
+C:\Users\Tolya\Documents\Visual Studio 2015\Projects\RSAclear\RSAclear\obj\Debug\RSAclear.Start.resources
+C:\Users\Tolya\Documents\Visual Studio 2015\Projects\RSAclear\RSAclear\obj\Debug\RSAclear.MillerRabin.resources
+C:\Users\Tolya\Documents\Visual Studio 2015\Projects\RSAclear\RSAclear\obj\Debug\RSAclear.Evklid.resources
+C:\Users\Elena\Documents\__КНИГИ\RSAclear\RSAclear\bin\Debug\RSAclear.exe.config
+C:\Users\Elena\Documents\__КНИГИ\RSAclear\RSAclear\obj\Debug\RSAclear.exe
+C:\Users\Elena\Documents\__КНИГИ\RSAclear\RSAclear\obj\Debug\RSAclear.pdb
